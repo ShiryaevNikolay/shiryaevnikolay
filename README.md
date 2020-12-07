@@ -10,7 +10,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-303F9F?style=flat-square&logo=dart)
 
 
-### Так же интересуюсь:
+### Также интересуюсь:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A237E?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-48B381?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E44D27?style=flat-square&logo=html)
