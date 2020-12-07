@@ -12,7 +12,7 @@
 
 ### Немного интересуюсь:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A237E?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-ef5350?style=flat-square&logo=)
+![Vue](https://img.shields.io/badge/-Vue-ef5350?style=flat-square&logo=(https://github.com/ShiryaevNikolay/shiryaevnikolay/blob/main/assets/vuejs.svg))
 ![html](https://img.shields.io/badge/-Kotlin-FFF9C4?style=flat-square&logo=kotlin)
 ![css](https://img.shields.io/badge/-Java-ef5350?style=flat-square&logo=java)
 
