@@ -2,7 +2,7 @@
 
 ### Основные интересы:
 ![Android](https://img.shields.io/badge/-Android-F5F5F5?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-FF9800?style=flat-square&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-FFEB3B?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-ef5350?style=flat-square&logo=java)
 
 ### Начинаю изучать:
