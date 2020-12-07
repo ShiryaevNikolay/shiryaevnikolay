@@ -12,9 +12,11 @@
 
 ### Немного интересуюсь:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A237E?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-ef5350?style=flat-square&logo=data%3Aimage%2Fsvg%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMiwzSDUuNUwxMiwxNUwxOC41LDNIMjJMMTIsMjFMMiwzTTYuNSwzSDkuNUwxMiw3LjU4TDE0LjUsM0gxNy41TDEyLDEzLjA4TDYuNSwzWiIgLz48L3N2Zz4%3D)
-![html](https://img.shields.io/badge/-Kotlin-FFF9C4?style=flat-square&logo=kotlin)
-![css](https://img.shields.io/badge/-Java-ef5350?style=flat-square&logo=java)
+![Vue](https://img.shields.io/badge/-Vue-48B381?style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E44D27?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-0777BD?style=flat-square&logo=css)
+
+![Python](https://img.shields.io/badge/-Python-FFD747?style=flat-square&logo=python)
 
 <!-- ### Hi there 👋 -->
 
