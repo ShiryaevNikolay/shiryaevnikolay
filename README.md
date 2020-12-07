@@ -1,7 +1,7 @@
 ## Привет 👋 Я Николай Ширяев - начинающий мобильный разработчик
 
 ### Основные интересы:
-![Android](https://img.shields.io/badge/-Android-F5F5F5?style=flat-square&logo=android)
+![Android](https://img.shields.io/badge/-Android-EEEEEE?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFEB3B?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-DF0A14?style=flat-square&logo=java)
 
