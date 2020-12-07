@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет 👋 Я Николай Ширяев - начинающий мобильный разработчик
+
+About me
+
+Languages and Tools
+
+Follow me
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **ShiryaevNikolay/shiryaevnikolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
