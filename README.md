@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFD747?style=flat-square&logo=python)
 
 ### Мои контакты:
-![VK](https://img.shields.io/badge/-VK-212121?style=for-the-badge&logo=vk)
+[![VK](https://img.shields.io/badge/-VK-212121?style=for-the-badge&logo=vk)](https://vk.com/id266926982)
 ![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)
 
 <!-- ### Hi there 👋 -->
