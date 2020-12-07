@@ -20,7 +20,7 @@
 
 ### Мои контакты:
 [![VK](https://img.shields.io/badge/-VK-212121?style=for-the-badge&logo=vk)](https://vk.com/id266926982)
-![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)
+[![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)](https://t.me/BirBilliBob)
 
 <!-- ### Hi there 👋 -->
 
