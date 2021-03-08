@@ -24,6 +24,9 @@
 ![Python](https://img.shields.io/badge/-Python-FFD747?style=flat-square&logo=python)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-FFEE58?style=flat-square&logo=PowerShell)
 ![C](https://img.shields.io/badge/-C-F5F5F5?style=flat-square&logo=C)
+![Unity](https://img.shields.io/badge/-Unity-455A64?style=flat-square&logo=Unity)
+![C#](https://img.shields.io/badge/-C%23-455A64?style=flat-square&logo=C#)
+![Sql](https://img.shields.io/badge/-SQL-ECEFF1?style=flat-square&logo=mysql)
 
 ![Figma](https://img.shields.io/badge/-Figma-ECEFF1?style=flat-square&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-ECEFF1?style=flat-square&logo=Photoshop)
