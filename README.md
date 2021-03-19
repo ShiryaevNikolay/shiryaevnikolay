@@ -31,7 +31,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-ECEFF1?style=flat-square&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-ECEFF1?style=flat-square&logo=Photoshop)
 
-### Профиль на Codewars
+#### Профиль на Codewars
 [![Codewars](https://img.shields.io/badge/-Codewars-ECEFF1?logoColor=A42D22&style=for-the-badge&logo=codewars)](https://www.codewars.com/users/BirBilliBob/stats)
 
 #### Мои контакты:
