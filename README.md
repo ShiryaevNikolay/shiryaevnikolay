@@ -31,12 +31,15 @@
 ![Figma](https://img.shields.io/badge/-Figma-ECEFF1?style=flat-square&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-ECEFF1?style=flat-square&logo=Photoshop)
 
+### Профиль на Codewars
+[![Codewars](https://img.shields.io/badge/-Codewars-ECEFF1?logoColor=A42D22&style=for-the-badge&logo=codewars)](https://www.codewars.com/users/BirBilliBob/stats)
+
 #### Мои контакты:
 [![VK](https://img.shields.io/badge/-VK-212121?style=for-the-badge&logo=vk)](https://vk.com/id266926982)
 [![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)](https://t.me/BirBilliBob)
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shiryaevnikolay&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiryaevnikolay&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shiryaevnikolay&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
