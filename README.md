@@ -1,18 +1,18 @@
 ![Header](https://github.com/ShiryaevNikolay/shiryaevnikolay/blob/main/assets/banner.png)
 
-## Привет 👋 Я Николай Ширяев - начинающий мобильный разработчик
+## Hi 👋 I am Nikolay Shiryaev - begginer and aspiring mobile/web developer
 
-### Основные интересы:
+### Main interests:
 ![Android](https://img.shields.io/badge/-Android-EEEEEE?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFEB3B?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-DF0A14?style=flat-square&logo=java)
 
-### Изучаю:
+### Actively studying:
 ![Flutter](https://img.shields.io/badge/-Flutter-1976D2?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-303F9F?style=flat-square&logo=dart)
 
 
-#### Другие умения:
+#### Other skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A237E?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-43A047?style=flat-square)
 ![Jquery](https://img.shields.io/badge/-Jquery-455A64?style=flat-square&logo=Jquery)
@@ -31,10 +31,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-ECEFF1?style=flat-square&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-ECEFF1?style=flat-square&logo=Photoshop)
 
-#### Профиль на Codewars
+![Linux](https://img.shields.io/badge/-Linux-1A237E?style=flat-square&logo=Linux)
+
+#### Profile on Codewars
 [![Codewars](https://img.shields.io/badge/-Codewars-ECEFF1?logoColor=A42D22&style=for-the-badge&logo=codewars)](https://www.codewars.com/users/BirBilliBob/stats)
 
-#### Мои контакты:
+#### My contacts:
 [![VK](https://img.shields.io/badge/-VK-212121?style=for-the-badge&logo=vk)](https://vk.com/id266926982)
 [![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)](https://t.me/BirBilliBob)
 
