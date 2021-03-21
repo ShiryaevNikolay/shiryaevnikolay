@@ -10,6 +10,7 @@
 ### Actively studying:
 ![Flutter](https://img.shields.io/badge/-Flutter-1976D2?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-303F9F?style=flat-square&logo=dart)
+![Docker](https://img.shields.io/badge/-Docker-ECEFF1?style=flat-square&logo=Docker)
 
 
 #### Other skills:
