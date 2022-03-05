@@ -11,6 +11,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-E3F2FD?style=flat-square&logo=flutter&logoColor=2196F3)
 ![Dart](https://img.shields.io/badge/-Dart-E8EAF6?style=flat-square&logo=dart&logoColor=3F51B5)
 ![Docker](https://img.shields.io/badge/-Docker-E1F5FE?style=flat-square&logo=Docker)
+![Golang](https://img.shields.io/badge/-Golang-E1F5FE?style=flat-square&logo=Go)
 
 
 #### Other skills:
