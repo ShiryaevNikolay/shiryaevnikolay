@@ -1,20 +1,20 @@
 ![Header](https://github.com/ShiryaevNikolay/shiryaevnikolay/blob/main/assets/banner.png)
 
-## Hi 👋 I am Nikolay Shiryaev - begginer and aspiring mobile/web developer
+## Привет! Меня зовут Николай Ширяев. Я - Android-разработчик. 
 
-### Main interests:
+### Основные интересы:
 ![Android](https://img.shields.io/badge/-Android-E8F5E9?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-E8EAF6?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-FFEBEE?style=flat-square&logo=java&logoColor=B71C1C)
 
-### Actively studying:
+### Также в свободное время изучаю:
 ![Flutter](https://img.shields.io/badge/-Flutter-E3F2FD?style=flat-square&logo=flutter&logoColor=2196F3)
 ![Dart](https://img.shields.io/badge/-Dart-E8EAF6?style=flat-square&logo=dart&logoColor=3F51B5)
 ![Docker](https://img.shields.io/badge/-Docker-E1F5FE?style=flat-square&logo=Docker)
 ![Golang](https://img.shields.io/badge/-Golang-E1F5FE?style=flat-square&logo=Go)
 
 
-#### Other skills:
+#### Есть опыт в других вещах:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-212121?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-E8F5E9?style=flat-square)
 ![Jquery](https://img.shields.io/badge/-Jquery-E3F2FD?style=flat-square&logo=Jquery&logoColor=2196F3)
@@ -34,10 +34,10 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FFF8E1?style=flat-square&logo=Linux&logoColor=1A237E)
 
-#### Profile on Codewars
+#### Профиль на Codewars
 [![Codewars](https://img.shields.io/badge/-Codewars-FFEBEE?logoColor=A42D22&style=for-the-badge&logo=codewars)](https://www.codewars.com/users/BirBilliBob/stats)
 
-#### My contacts:
+#### Мои контакты:
 [![VK](https://img.shields.io/badge/-VK-212121?style=for-the-badge&logo=vk)](https://vk.com/id266926982)
 [![Telegram](https://img.shields.io/badge/-Telegram-212121?style=for-the-badge&logo=telegram)](https://t.me/BirBilliBob)
 
